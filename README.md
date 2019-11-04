@@ -4,4 +4,4 @@ Replace AWS access key and secret key in terraform.tfvars and in packer.json fil
 AWS_ACCESS_KEY = "XXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 AWS_SECRET_KEY = "YYYYYYYYYYYYYYYYYYYYYYYYYYYY"
 
-AWS_REGION = "us-east-1"
+Download Packer and keep the binary in same folder.
